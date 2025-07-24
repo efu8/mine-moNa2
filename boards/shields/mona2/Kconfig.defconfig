@@ -34,12 +34,6 @@ config PMW3610
 config PMW3610_SWAP_XY
     default y
 
-config EC11
-    default y
-
-config EC11_TRIGGER_GLOBAL_THREAD
-    default y
-
 config RGBLED_WIDGET_BATTERY_LEVEL_HIGH
     default 30
 
