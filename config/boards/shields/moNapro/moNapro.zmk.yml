@@ -1,8 +1,0 @@
-file_format: "1"
-id: moNapro
-name: moNapro
-type: shield
-url: https://github.com/sayu-hub/zmk-config-moNapro
-requires: [seeeduino_xiao_ble]
-features:
-  - keys
