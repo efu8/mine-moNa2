@@ -1,3 +1,3 @@
 # mine-moNa2
 
-<img src="keymap-drawer/mona.svg">
+<img src="keymap-drawer/mona2.svg">
