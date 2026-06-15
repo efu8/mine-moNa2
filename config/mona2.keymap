@@ -156,4 +156,4 @@
             sensor-bindings = <&scroll_up_down>;
         };
     };
-};
+}
